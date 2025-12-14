@@ -30,6 +30,7 @@
 - [Adobe Spark](https://spark.adobe.com) - Easily create videos, graphics, and web pages for social media.
 - [Unsplash](https://unsplash.com) - A collection of high-quality, royalty-free images for your social media posts.
 - [Pexels](https://pexels.com) - Another great source for free stock photos and videos.
+- [OpenCreator](https://opencreator.ai) - All-in-one AI workspace for creating product visuals (images and videos) with workflow automation and batch generation.
 
 ## Community Management
 - [Sprinklr](https://www.sprinklr.com) - End-to-end social media management and customer experience platform.

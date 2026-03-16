@@ -28,6 +28,7 @@
 - [Sprout Social](https://sproutsocial.com) - Social media management and analytics platform.
 - [Later](https://later.com) - Visual social media planner and scheduler.
 - [TweetDeck](https://tweetdeck.twitter.com) - Monitor and manage Twitter activity with customizable columns.
+- [Hanzi](https://github.com/hanzili/hanzi-in-chrome) - Open-source AI agent that posts to social platforms from your real signed-in browser. Drafts platform-adapted content and publishes from your actual accounts.
 
 ## Content Creation
 - [Canva](https://canva.com) - Create stunning visuals and graphics for social media.

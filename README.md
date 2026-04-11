@@ -28,6 +28,7 @@
 - [Sprout Social](https://sproutsocial.com) - Social media management and analytics platform.
 - [Later](https://later.com) - Visual social media planner and scheduler.
 - [TweetDeck](https://tweetdeck.twitter.com) - Monitor and manage Twitter activity with customizable columns.
+- [BulkPublish](https://www.bulkpublish.com) - Social media publishing API for 11 platforms with REST API, Python & Node.js SDKs, and MCP server.
 
 ## Content Creation
 - [Canva](https://canva.com) - Create stunning visuals and graphics for social media.

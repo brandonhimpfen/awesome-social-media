@@ -34,6 +34,7 @@
 - [Adobe Spark](https://spark.adobe.com) - Easily create videos, graphics, and web pages for social media.
 - [Unsplash](https://unsplash.com) - A collection of high-quality, royalty-free images for your social media posts.
 - [Pexels](https://pexels.com) - Another great source for free stock photos and videos.
+- [Cyber Collector](https://t.me/cybercollectorbot) - Telegram bot to download videos from TikTok, Instagram Reels/Stories, YouTube Shorts, X/Twitter and Facebook. No signup required.
 
 ## Community Management
 - [Sprinklr](https://www.sprinklr.com) - End-to-end social media management and customer experience platform.

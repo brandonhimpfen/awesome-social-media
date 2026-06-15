@@ -45,6 +45,7 @@
 - [Sprout Social](https://sproutsocial.com) - Provides in-depth social media analytics and reporting.
 - [Buzzsumo](https://buzzsumo.com) - Discover the most shared content and influencers for any topic.
 - [Brand24](https://brand24.com) - Monitor and track social media mentions of your brand.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter API platform for tweet search, follower export, account monitoring, and media workflows.
 
 ## Social Media Advertising
 - [Facebook Ads Manager](https://www.facebook.com/business/ads) - Create and manage Facebook and Instagram ad campaigns.

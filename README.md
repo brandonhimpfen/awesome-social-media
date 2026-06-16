@@ -45,6 +45,7 @@
 - [Sprout Social](https://sproutsocial.com) - Provides in-depth social media analytics and reporting.
 - [Buzzsumo](https://buzzsumo.com) - Discover the most shared content and influencers for any topic.
 - [Brand24](https://brand24.com) - Monitor and track social media mentions of your brand.
+- [Build a brand monitoring agent](https://superhighway.walls.sh/guides/brand-monitoring-agent) - Python agent that searches news and the web for brand mentions, scrapes content for context, and uses an LLM to classify sentiment and urgency for daily digests.
 
 ## Social Media Advertising
 - [Facebook Ads Manager](https://www.facebook.com/business/ads) - Create and manage Facebook and Instagram ad campaigns.

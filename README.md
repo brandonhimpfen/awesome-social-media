@@ -28,6 +28,7 @@
 - [Sprout Social](https://sproutsocial.com) - Social media management and analytics platform.
 - [Later](https://later.com) - Visual social media planner and scheduler.
 - [TweetDeck](https://tweetdeck.twitter.com) - Monitor and manage Twitter activity with customizable columns.
+- [ONYX](https://onyxhq.us) - Bluesky-native social media post scheduler on the AT Protocol with AI-assisted drafting, analytics, and free Bluesky tools. Flat $7/month and a free tier.
 
 ## Content Creation
 - [Canva](https://canva.com) - Create stunning visuals and graphics for social media.

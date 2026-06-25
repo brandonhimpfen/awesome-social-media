@@ -34,6 +34,7 @@
 - [Adobe Spark](https://spark.adobe.com) - Easily create videos, graphics, and web pages for social media.
 - [Unsplash](https://unsplash.com) - A collection of high-quality, royalty-free images for your social media posts.
 - [Pexels](https://pexels.com) - Another great source for free stock photos and videos.
+- [The Free X Growth Course](https://slappost.app/learn/) - Free, no-login course with 5 lessons on growing on X (Twitter): hooks, threads, the algorithm, replies, and profile funnels.
 
 ## Community Management
 - [Sprinklr](https://www.sprinklr.com) - End-to-end social media management and customer experience platform.

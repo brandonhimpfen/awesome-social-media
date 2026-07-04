@@ -46,6 +46,7 @@
 - [Buzzsumo](https://buzzsumo.com) - Discover the most shared content and influencers for any topic.
 - [Brand24](https://brand24.com) - Monitor and track social media mentions of your brand.
 
+- [igtrackr](https://igtrackr.com) - Track any public Instagram account's followers, recent follows, unfollows, and engagement rate — free, no login required.
 ## Social Media Advertising
 - [Facebook Ads Manager](https://www.facebook.com/business/ads) - Create and manage Facebook and Instagram ad campaigns.
 - [Google Ads](https://ads.google.com) - Advertise on Google Search, YouTube, and other Google properties.

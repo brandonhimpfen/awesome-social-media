@@ -34,6 +34,7 @@
 - [Adobe Spark](https://spark.adobe.com) - Easily create videos, graphics, and web pages for social media.
 - [Unsplash](https://unsplash.com) - A collection of high-quality, royalty-free images for your social media posts.
 - [Pexels](https://pexels.com) - Another great source for free stock photos and videos.
+- [Threads Marketing Skills](https://github.com/sergebulaev/threads-skills) – Open-source Claude Code and Codex skills to write Threads posts and threads in your voice, with corpus-validated hooks and an AI-tell humanizer. MIT.
 
 ## Community Management
 - [Sprinklr](https://www.sprinklr.com) - End-to-end social media management and customer experience platform.

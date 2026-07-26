@@ -1,4 +1,4 @@
-# Awesome Social Media [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome)
+﻿# Awesome Social Media [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -28,7 +28,7 @@
 - [Sprout Social](https://sproutsocial.com) - Social media management and analytics platform.
 - [Later](https://later.com) - Visual social media planner and scheduler.
 - [TweetDeck](https://tweetdeck.twitter.com) - Monitor and manage Twitter activity with customizable columns.
-- [Postlia](https://postlia.com) - Write once and publish to six social platforms, with scheduling and 25+ free tools.
+- [Postlia](https://postlia.com) - Write once and schedule posts across multiple social media platforms, with a set of free social tools.
 
 ## Content Creation
 - [Canva](https://canva.com) - Create stunning visuals and graphics for social media.

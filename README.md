@@ -23,6 +23,7 @@
 - [Books](#books)
 
 ## Social Media Management Tools
+- [SocialClaw](https://getsocialclaw.com) - Schedule and publish posts across X, LinkedIn, Instagram, Facebook Pages, TikTok, YouTube, Reddit, Pinterest, Discord, Telegram, and WordPress via dashboard, API, CLI, or MCP.
 - [Hootsuite](https://hootsuite.com) - Manage and schedule posts across multiple social media platforms.
 - [Buffer](https://buffer.com) - Plan, create, and schedule content for social media.
 - [Sprout Social](https://sproutsocial.com) - Social media management and analytics platform.

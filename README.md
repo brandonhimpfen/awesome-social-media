@@ -45,6 +45,7 @@
 - [Sprout Social](https://sproutsocial.com) - Provides in-depth social media analytics and reporting.
 - [Buzzsumo](https://buzzsumo.com) - Discover the most shared content and influencers for any topic.
 - [Brand24](https://brand24.com) - Monitor and track social media mentions of your brand.
+- [Trends MCP](https://trendsmcp.ai) - Multi-platform social and search trend tracking API/MCP.
 
 ## Social Media Advertising
 - [Facebook Ads Manager](https://www.facebook.com/business/ads) - Create and manage Facebook and Instagram ad campaigns.

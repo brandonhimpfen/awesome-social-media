@@ -28,6 +28,7 @@
 - [Sprout Social](https://sproutsocial.com) - Social media management and analytics platform.
 - [Later](https://later.com) - Visual social media planner and scheduler.
 - [TweetDeck](https://tweetdeck.twitter.com) - Monitor and manage Twitter activity with customizable columns.
+- [Autoposting](https://autoposting.ai) - AI social media manager: generates posts in your own voice, clips long video, builds carousels, and schedules to X, LinkedIn, Instagram, Threads and YouTube
 
 ## Content Creation
 - [Canva](https://canva.com) - Create stunning visuals and graphics for social media.

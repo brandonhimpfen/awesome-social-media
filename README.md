@@ -70,6 +70,7 @@
 ## Social Media Design
 - [Figma](https://www.figma.com) - Collaborative design tool to create social media graphics and templates.
 - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) - Suite of design tools including Photoshop, Illustrator, and Premiere Pro.
+- [Social Media Safe Zone Visualizer](https://handlekit.com/social-media-safe-zones) - Preview exactly where TikTok, Instagram Reels, and YouTube Shorts will place their UI buttons so you never cover your text.
 - [Sketch](https://www.sketch.com) - Digital design and prototyping tool for social media visuals.
 
 ## Podcasts

@@ -25,6 +25,7 @@
 ## Social Media Management Tools
 - [Hootsuite](https://hootsuite.com) - Manage and schedule posts across multiple social media platforms.
 - [Buffer](https://buffer.com) - Plan, create, and schedule content for social media.
+- [BulkPublish](https://www.bulkpublish.com/) - AI-agent API and MCP server for multi-platform social publishing.
 - [Sprout Social](https://sproutsocial.com) - Social media management and analytics platform.
 - [Later](https://later.com) - Visual social media planner and scheduler.
 - [TweetDeck](https://tweetdeck.twitter.com) - Monitor and manage Twitter activity with customizable columns.

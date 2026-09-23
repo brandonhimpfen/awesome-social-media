@@ -11,6 +11,8 @@
 > A curated list of resources and tips to level up your social media game!
 
 ## Table of Contents
+
+- [ReelWorkshop](https://reelworkshop.com) - Remix your clips into short-form compilations for Reels, Shorts, TikTok, and Facebook.
 - [Social Media Management Tools](#social-media-management-tools)
 - [Content Creation](#content-creation)
 - [Community Management](#community-management)

@@ -30,6 +30,7 @@
 - [Sprout Social](https://sproutsocial.com) - Social media management and analytics platform.
 - [Later](https://later.com) - Visual social media planner and scheduler.
 - [TweetDeck](https://tweetdeck.twitter.com) - Monitor and manage Twitter activity with customizable columns.
+- [Social Roster](https://socialroster.dev) - Schedule TikTok, Instagram Reels, YouTube Shorts, and Facebook videos from one calendar — with bulk upload.
 
 ## Content Creation
 - [Canva](https://canva.com) - Create stunning visuals and graphics for social media.

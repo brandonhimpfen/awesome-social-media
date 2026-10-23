@@ -55,7 +55,7 @@
 - [Twitter Ads](https://ads.twitter.com) - Promote your content and reach your audience on Twitter.
 
 ## Influencer Marketing
-- [Influence.co](https://influence.co) - Discover and connect with influencers in your industry.
+- [TKMetrics](https://tkmetrics.com/influencer-search/) - Find TikTok creators by niche and country, ranked by views on their recent posts.
 - [BuzzStream](https://www.buzzstream.com) - Manage and track influencer outreach campaigns.
 - [Upfluence](https://upfluence.com) - Find influencers, manage campaigns, and measure results.
 

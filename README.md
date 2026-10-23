@@ -55,7 +55,6 @@
 - [Twitter Ads](https://ads.twitter.com) - Promote your content and reach your audience on Twitter.
 
 ## Influencer Marketing
-- [Influence.co](https://influence.co) - Discover and connect with influencers in your industry.
 - [BuzzStream](https://www.buzzstream.com) - Manage and track influencer outreach campaigns.
 - [Upfluence](https://upfluence.com) - Find influencers, manage campaigns, and measure results.
 

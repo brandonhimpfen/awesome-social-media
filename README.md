@@ -83,6 +83,7 @@
 - [Hootsuite Blog](https://blog.hootsuite.com) - Articles and resources on social media strategy and best practices.
 - [Sprout Social Insights](https://sproutsocial.com/insights) - Actionable tips and social media trends.
 - [Social Media Examiner](https://www.socialmediaexaminer.com) - Comprehensive guides and industry reports on social media marketing.
+- [YouTube Starter Guide](https://creator.taoliapp.com/) - Free Chinese-language YouTube starter knowledge base for creators (account setup, policy boundaries, monetization).
 
 ## Books
 - [Jab, Jab, Jab, Right Hook](https://www.amazon.com/Jab-Right-Hook-Story-Social/dp/006227306X) by Gary Vaynerchuk

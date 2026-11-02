@@ -62,6 +62,7 @@
 - [Hashtagify](https://hashtagify.me) - Discover popular and trending hashtags related to your content.
 - [RiteTag](https://ritetag.com) - Get hashtag suggestions based on real-time engagement data.
 - [Display Purposes](https://displaypurposes.com) - Find relevant and popular hashtags for your posts.
+- [Outfame Hashtag Generator](https://www.outfame.com/free-instagram-tools/instagram-hashtag-generator) - Free AI tool that suggests Instagram hashtags for a post.
 
 ## Engagement and Interaction
 - [Agorapulse](https://www.agorapulse.com) - Manage social media interactions, messages, and comments.

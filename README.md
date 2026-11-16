@@ -47,6 +47,7 @@
 - [Sprout Social](https://sproutsocial.com) - Provides in-depth social media analytics and reporting.
 - [Buzzsumo](https://buzzsumo.com) - Discover the most shared content and influencers for any topic.
 - [Brand24](https://brand24.com) - Monitor and track social media mentions of your brand.
+- [IGTrackr](https://igtrackr.com) - Instagram analytics tool for public accounts, showing follower growth, recent follows and engagement, with a free tier and paid plans.
 
 ## Social Media Advertising
 - [Facebook Ads Manager](https://www.facebook.com/business/ads) - Create and manage Facebook and Instagram ad campaigns.
